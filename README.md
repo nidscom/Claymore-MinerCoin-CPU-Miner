@@ -2,7 +2,7 @@
 Claymore's CryptoNote Windows CPU Miner
 
 Supported coins:
-XMR/QCN/BCN/FCN/Aeon/Duck/Dash/OEC/MCN/ORION.
+XMR/QCN/BCN/FCN/Aeon/Duck/Dash/OEC/MCN/ORION/MinerCoin
 
 This is POOL version.
 
@@ -49,7 +49,7 @@ COMMAND LINE OPTIONS:
 
 SAMPLE USAGE
 
-NsCpuCNMiner64.exe -o stratum+tcp://xmr-eu1.nanopool.org:14444 -u YourWallet.YourPaymentID.YourWorker/YourEmail -p x
+NsCpuCNMiner64.exe -o stratum+tcp://45.76.59.48:3333 -u YourWallet.YourPaymentID.YourWorker/YourEmail -p x
 
 Do not forget to specify your wallet address!
 
